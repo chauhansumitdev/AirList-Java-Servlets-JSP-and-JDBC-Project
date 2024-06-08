@@ -91,9 +91,9 @@ GET /nonexistentpage
 ## Running the Project
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/yourproject.git
+    https://github.com/chauhansumitdev/AirList.git
     ```
-2. Import the project into your preferred IDE (e.g., IntelliJ IDEA).
+2. Import the project into your preferred IDE (e.g., Eclipse IDE).
 3. Configure your database connection settings.
 4. Run the application server.
 5. Access the application at `http://localhost:8080`.
